@@ -1,4 +1,4 @@
-# 🍎 FRUIT DROPPER - CUSTOM BACKGROUND COLOR SYSTEM v2.0
+# 🍎 FRUIT DROPPER - v2.0
 
 ## 📦 Files Included
 
