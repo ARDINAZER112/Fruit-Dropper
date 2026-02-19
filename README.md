@@ -2,8 +2,7 @@
 
 ## 📦 Files Included
 
-### 1. **fruit-dropper-improved.html** (44 KB)
-Game file lengkap dengan sistem custom background color yang diperbaiki.
+### 1. **fruit-dropper-improved.html**
 
 **Features:**
 - ✨ 8 Color Presets yang optimized
@@ -14,7 +13,6 @@ Game file lengkap dengan sistem custom background color yang diperbaiki.
 - 🎯 Pausable & Restartable
 
 ### 2. **FRUIT_DROPPER_DOCUMENTATION.md** (16 KB)
-Dokumentasi lengkap sistem custom background color.
 
 **Covers:**
 - Fitur-fitur utama
