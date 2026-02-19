@@ -372,7 +372,7 @@ Fruit Dropper Game
 │       ├── Game Loop (RAF)
 │       ├── Physics & Collision
 │       └── LocalStorage Integration
-└── Media Folder (MODULE_CLIENT_SIDE_MEDIA/)
+└── Media Folder (asset/)
     ├── apple.png
     ├── avocado.png
     ├── basket.png
@@ -550,7 +550,7 @@ checkCollision(fruit):
 **Problem**: Fruits dan basket tidak muncul di game
 
 **Solution**:
-- Pastikan folder `MODULE_CLIENT_SIDE_MEDIA` ada di directory yang sama dengan `index.html`
+- Pastikan folder `asset` ada di directory yang sama dengan `index.html`
 - Cek nama file: harus persis seperti di code (lowercase, .png extension)
 - Buka browser console (F12) untuk lihat error messages
 - Try opening from different browser

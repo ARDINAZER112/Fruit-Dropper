@@ -2,11 +2,19 @@
 
 A fun and addictive web-based arcade game where you catch falling fruits!
 
+## Quick Shotcut ##
+- [Cara Kerja, Fungsi dan Cara Customisasi](DEVELOPER.md)
+- [Game Documentation](DOCUMENTATION.md)
+- [Setup & Installation Guide](SETUP.md)
+- [Cara Bermain](READ_ME_FIRST.txt)
+- [Quick Start](START_HERE.txt)
+- [More Information](COMPLETE_PACKAGE_INFO.txt)
+
 ## 🚀 Quick Start
 
 ### Setup (30 seconds)
 1. Extract all files from the archive
-2. Make sure `MODULE_CLIENT_SIDE_MEDIA` folder is in the same directory as `index.html`
+2. Make sure `asset` folder is in the same directory as `index.html`
 3. Open `index.html` in your web browser
 4. **Play!** 🎮
 
@@ -61,7 +69,7 @@ Catch falling fruits to earn points and maintain health. Avoid bombs and trash!
 
 ## 📚 Documentation
 
-For detailed documentation, see **DOCUMENTATION.md** file which includes:
+For detailed documentation, see **[DOCUMENTATION.md](DOCUMENTATION.md)** file which includes:
 - Complete game mechanics
 - Troubleshooting guide
 - Developer customization guide
@@ -93,7 +101,7 @@ See **DOCUMENTATION.md** for more customization options.
 ## 🐛 Troubleshooting
 
 **Images not loading?**
-- Check if `MODULE_CLIENT_SIDE_MEDIA` folder exists
+- Check if `asset` folder exists
 - Verify file names are correct
 - Try refreshing the page
 
@@ -107,7 +115,7 @@ See **DOCUMENTATION.md** for more customization options.
 - Verify LocalStorage is enabled
 - Try incognito/private mode
 
-For more help, see **DOCUMENTATION.md** troubleshooting section.
+For more help, see **[DOCUMENTATION.md](DOCUMENTATION.md)** troubleshooting section.
 
 ## 📋 File Structure
 
@@ -116,7 +124,7 @@ fruit-dropper/
 ├── index.html                          (Game - open this file!)
 ├── DOCUMENTATION.md                    (Full documentation)
 ├── README.md                           (This file)
-└── MODULE_CLIENT_SIDE_MEDIA/
+└── asset/
     ├── apple.png
     ├── avocado.png
     ├── basket.png
@@ -183,12 +191,11 @@ Perfect for learning web development!
 1. **Game won't start?** Check console (F12) for errors
 2. **Images missing?** Verify folder structure
 3. **Performance issues?** Close other tabs and refresh
-4. **Other issues?** Check DOCUMENTATION.md
+4. **Other issues?** Check [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ---
 
 **Have fun playing! 🍎🎮**
 
 **Version:** 1.0.0  
-**Last Updated:** February 2026  
-**Made with ❤️ using Vanilla JavaScript**
+**Made with using Vanilla JavaScript**

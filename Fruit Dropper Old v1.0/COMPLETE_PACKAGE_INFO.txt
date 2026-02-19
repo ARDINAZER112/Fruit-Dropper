@@ -10,7 +10,7 @@
 
 ✅ Game Files:
    • index.html - Main game file (THE ONLY FILE YOU NEED TO OPEN)
-   • MODULE_CLIENT_SIDE_MEDIA/ - All 6 game sprites/images
+   • asset/ - All 6 game sprites/images
 
 ✅ Documentation (2,713 lines total):
    • START_HERE.txt - Quick reference (this is in Indonesian-English)
@@ -313,7 +313,7 @@ UI Features:
 
 ═══════════════════════════════════════════════════════════════════════════
 
-💡 PRO TIPS:
+💡 TIPS:
 ═══════════════════════════════════════════════════════════════════════════
 
   1. Start with Easy difficulty to learn
@@ -355,9 +355,8 @@ Now go have fun! 🍎🎮
 ═══════════════════════════════════════════════════════════════════════════
 
 Version: 1.0.0
-Status: Complete & Ready ✅
 Created: February 2026
-Built with: ❤️ using Vanilla JavaScript
+Built with: using Vanilla JavaScript
 
 Made with care for a great gaming experience!
 

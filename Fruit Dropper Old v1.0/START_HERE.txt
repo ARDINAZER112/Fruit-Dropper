@@ -25,7 +25,7 @@ FILE YANG TERSEDIA:
 ================================================================================
 
 📖 DOKUMENTASI (Baca dalam urutan ini):
-  1. INDEX.md           - Peta lengkap semua file (BACA INI DULU!)
+  1. INDEX.md           - Peta lengkap semua file (Baca Ini Dulu Ya)
   2. SETUP.md           - Panduan instalasi & troubleshooting
   3. README.md          - Pengenalan singkat game
   4. DOCUMENTATION.md   - Dokumentasi lengkap game

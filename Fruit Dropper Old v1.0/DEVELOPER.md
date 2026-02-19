@@ -63,7 +63,7 @@ The entire game is contained in a single HTML file with embedded CSS and JavaScr
 </html>
 ```
 
-### Media Files: `MODULE_CLIENT_SIDE_MEDIA/`
+### Media Files: `asset/`
 
 ```
 fruit.png (40x40 pixels each)
@@ -400,7 +400,7 @@ const difficultySettings = {
 
 ### Add New Fruit Type
 
-**Step 1:** Add image file to `MODULE_CLIENT_SIDE_MEDIA/strawberry.png`
+**Step 1:** Add image file to `asset/strawberry.png`
 
 **Step 2:** Define fruit in `fruitTypes`:
 
@@ -806,4 +806,4 @@ worker.postMessage({
 
 ---
 
-**Happy coding! 🚀**
+**Happy Playing! 🚀**
