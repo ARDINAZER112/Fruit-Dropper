@@ -1,8 +1,12 @@
 # 🍎 FRUIT DROPPER - v2.0
+## Quick Shortcut ##
+[PENJELASAN SISTEM CUSTOM BACKGROUND](FRUIT_DROPPER_DOCUMENTATION.md)
+[PENJELASAN/RINGKASAN PERBAIKAN v2.0](IMPROVEMENTS_SUMMARY.md)
+[PENJELASAN ISI/KONTEN GAME](INDEX.md)
 
 ## 📦 Files Included
 
-### 1. **fruit-dropper-improved.html**
+### 1. **fruit-dropper-improved.html** (44 KB) [Go To](fruit-dropper-improved.html)
 
 **Features:**
 - ✨ 8 Color Presets yang optimized
@@ -12,7 +16,7 @@
 - 🏆 Leaderboard System
 - 🎯 Pausable & Restartable
 
-### 2. **FRUIT_DROPPER_DOCUMENTATION.md** (16 KB)
+### 2. **FRUIT_DROPPER_DOCUMENTATION.md** (16 KB) [Go To](FRUIT_DROPPER_DOCUMENTATION.md)
 
 **Covers:**
 - Fitur-fitur utama
@@ -22,7 +26,7 @@
 - Troubleshooting
 - Best practices
 
-### 3. **IMPROVEMENTS_SUMMARY.md** (11 KB)
+### 3. **IMPROVEMENTS_SUMMARY.md** (11 KB) [Go To](IMPROVEMENTS_SUMMARY.md)
 Ringkasan perbaikan dari v1 ke v2.
 
 **Contains:**
@@ -32,7 +36,7 @@ Ringkasan perbaikan dari v1 ke v2.
 - Testing checklist
 - Performance notes
 
-### 4. **README.md** (This file)
+### 4. **README.md** [(This file)](README.md)
 Quick start guide
 
 ---
@@ -395,8 +399,8 @@ Free to use and modify for personal & educational purposes.
 ## 📞 Quick Support
 
 **Issue:** Check these in order:
-1. Read relevant section di **IMPROVEMENTS_SUMMARY.md**
-2. Check **FRUIT_DROPPER_DOCUMENTATION.md** troubleshooting
+1. Read relevant section di **IMPROVEMENTS_SUMMARY.md** [Go to](IMPROVEMENTS_SUMMARY.md)
+2. Check **FRUIT_DROPPER_DOCUMENTATION.md** troubleshooting [Go To](FRUIT_DROPPER_DOCUMENTATION.md)
 3. Open browser console (F12) untuk error messages
 4. Test di browser berbeda
 
